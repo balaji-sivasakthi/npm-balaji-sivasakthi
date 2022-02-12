@@ -6,6 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "balaji",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balaji-sivasakthi/npm-balaji-sivasakthi.git"
+  },
+  "keywords": [
+    "balaji",
+    "latrosoft"
+  ],
+  "bugs": {
+    "url": "https://github.com/balaji-sivasakthi/npm-balaji-sivasakthi/issues"
+  },
+  "homepage": "https://github.com/balaji-sivasakthi/npm-balaji-sivasakthi#readme"
 }
