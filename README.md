@@ -1,7 +1,7 @@
 Hahaha
 
 
-##How to use
+How to use
 
 ```
 const balaji=require('balaji-sivasakthi')
